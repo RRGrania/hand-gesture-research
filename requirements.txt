@@ -1,0 +1,6 @@
+xgboost
+scikit-learn
+mlflow
+pandas
+numpy
+jupyter
