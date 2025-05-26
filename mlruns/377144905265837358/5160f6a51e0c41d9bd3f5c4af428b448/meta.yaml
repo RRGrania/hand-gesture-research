@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/s30111011808329/hand-gesture-research/mlruns/377144905265837358/5160f6a51e0c41d9bd3f5c4af428b448/artifacts
+end_time: 1748223868146
+entry_point_name: ''
+experiment_id: '377144905265837358'
+lifecycle_stage: active
+run_id: 5160f6a51e0c41d9bd3f5c4af428b448
+run_name: placid-mink-438
+run_uuid: 5160f6a51e0c41d9bd3f5c4af428b448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748223815303
+status: 3
+tags: []
+user_id: s30111011808329
