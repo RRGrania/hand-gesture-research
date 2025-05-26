@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/s30111011808329/hand-gesture-research/mlruns/377144905265837358/3ef0dc965b6048cfb54c5430351ba074/artifacts
+end_time: 1748296652609
+entry_point_name: ''
+experiment_id: '377144905265837358'
+lifecycle_stage: active
+run_id: 3ef0dc965b6048cfb54c5430351ba074
+run_name: XGBoost
+run_uuid: 3ef0dc965b6048cfb54c5430351ba074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748296568129
+status: 3
+tags: []
+user_id: s30111011808329

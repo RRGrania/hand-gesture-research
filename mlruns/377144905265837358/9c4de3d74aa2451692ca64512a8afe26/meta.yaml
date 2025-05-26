@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/s30111011808329/hand-gesture-research/mlruns/377144905265837358/9c4de3d74aa2451692ca64512a8afe26/artifacts
+end_time: 1748297053110
+entry_point_name: ''
+experiment_id: '377144905265837358'
+lifecycle_stage: active
+run_id: 9c4de3d74aa2451692ca64512a8afe26
+run_name: SVM
+run_uuid: 9c4de3d74aa2451692ca64512a8afe26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748296691402
+status: 3
+tags: []
+user_id: s30111011808329
