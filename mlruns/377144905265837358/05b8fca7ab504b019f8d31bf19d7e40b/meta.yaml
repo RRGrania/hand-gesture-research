@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/s30111011808329/hand-gesture-research/mlruns/377144905265837358/05b8fca7ab504b019f8d31bf19d7e40b/artifacts
+end_time: 1748546046884
+entry_point_name: ''
+experiment_id: '377144905265837358'
+lifecycle_stage: active
+run_id: 05b8fca7ab504b019f8d31bf19d7e40b
+run_name: RandomForest
+run_uuid: 05b8fca7ab504b019f8d31bf19d7e40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748546029827
+status: 3
+tags: []
+user_id: s30111011808329

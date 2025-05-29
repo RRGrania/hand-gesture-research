@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/s30111011808329/hand-gesture-research/mlruns/377144905265837358/ceb41d4111234b13ba059d5459f01f5b/artifacts
+deleted_time: 1748546345056
+end_time: 1748545956045
+entry_point_name: ''
+experiment_id: '377144905265837358'
+lifecycle_stage: deleted
+run_id: ceb41d4111234b13ba059d5459f01f5b
+run_name: Keras_FFNN
+run_uuid: ceb41d4111234b13ba059d5459f01f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748545928538
+status: 4
+tags: []
+user_id: s30111011808329
