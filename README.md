@@ -34,6 +34,8 @@ python train_and_log_models.py
 ![WhatsApp Image 2025-05-29 at 22 23 02_6cd5fb02](https://github.com/user-attachments/assets/3e064296-92b6-4f20-b875-587aad7b8c9d)
 ![WhatsApp Image 2025-05-29 at 22 28 23_460a6547](https://github.com/user-attachments/assets/48a73293-b837-48b0-b8e1-6a7d66213c23)
 ![WhatsApp Image 2025-05-29 at 22 28 49_ef891220](https://github.com/user-attachments/assets/a4d3c532-b9c5-4a2d-89be-cf4b61e5bb06)
+![WhatsApp Image 2025-05-30 at 03 00 24_fcfb48fa](https://github.com/user-attachments/assets/c6d1bf2d-dec8-4f8b-8189-b09f48a0b558)
+
 
 
 
